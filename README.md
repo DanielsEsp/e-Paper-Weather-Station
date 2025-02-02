@@ -12,8 +12,8 @@ https://github.com/user-attachments/assets/95395337-b37f-4af3-a58e-0604fe9d19b4
 Matériel utilisé
 
 e-Paper 5,79 pouces avec une résolution de 792 x 272 et Wemos LOLIN 32
-Un grand merçi au site [
-](https://www.makerguides.com/lighting-displays/)
+Un grand merçi au site 
+https://www.makerguides.com/lighting-displays/
 Pour la publication d'articles relatifs à la mise en oeuvre d'écrans e-Paper.
 
 La récupération des données météo sur le site open-meteo qui publie les datas accessible au format Json et sans API-KEY
